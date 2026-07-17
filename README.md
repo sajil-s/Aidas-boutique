@@ -1,5 +1,3 @@
-<img width="1893" height="930" alt="image" src="https://github.com/user-attachments/assets/c51df3df-b5e3-4f77-9a22-affb9ab0ebe1" />Aida's Boutique
-___________________
 
 Aida's Boutique is a full-stack MERN e-commerce application built for a women's clothing store. It allows customers to browse products, manage their cart and wishlist, place orders, and make payments online. It also includes an admin dashboard for managing products, orders, and users.
 
@@ -10,6 +8,13 @@ This project was built as a portfolio project to practice building a complete e-
 https://aidas-boutique.vercel.app
 
 
+<img width="1893" height="930" alt="image" src="https://github.com/user-attachments/assets/c51df3df-b5e3-4f77-9a22-affb9ab0ebe1" />Aida's Boutique![Uploading 
+
+
+
+0833eaaa-c956-4771-8f9f-e5428b0a280a.jpg…]()
+
+![Uploading 5463c298-d7ad-48bf-93ac-72bbe8c115bd.jpg…]()
 
 
 
